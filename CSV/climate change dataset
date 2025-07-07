@@ -1,1 +1,8 @@
-File detail here
+Données climatologiques de base - mensuelles
+Présentation
+Données climatologiques de toutes les stations de métropole et d'outre-mer depuis leur ouverture, pour tous les paramètres disponibles. Les données ont subi un contrôle climatologique.
+Informations techniques
+- Les données décadaires sont proposées en téléchargement, par département et par lots de période au format csv compressé
+- L'ensemble des paramètres est fourni pour l'ensemble des stations météorologiques
+- Les heures sont exprimées en UTC pour la métropole et en FU pour l'outre-mer
+- La mise à jour des fichiers est annuelle pour les historiques avant 1950, mensuelles pour les fichiers de 1950 jusqu'à l'année -2 et quotidiennes pour les deux dernières années
