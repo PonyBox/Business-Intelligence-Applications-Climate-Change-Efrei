@@ -1,0 +1,36 @@
+NUM_POSTE       : numéro Météo-France du poste sur 8 chiffres
+NOM_USUEL       : nom usuel du poste
+LAT             : latitude, négative au sud (en degrés et millionièmes de degré)
+LON             : longitude, négative à l’ouest de GREENWICH (en degrés et millionièmes de degré)
+ALTI            : altitude du pied de l'abri ou du pluviomètre si pas d'abri (en m)
+AAAAMM          : mois
+RR              : cumul mensuel des hauteurs de précipitation (en mm et 1/10)
+QRR             : code qualité de RR
+NBRR            : nombre de valeurs présentes de hauteur de précipitation quotidienne
+RRAB            : précipitation maximale tombée en 24 heures au cours du mois (en mm et 1/10)
+QRRAB           : code qualite de RRAB
+RRABDAT         : jour du RRAB
+NBJRR1          : nombre de jours avec RR ≥ 1.0 mm
+NBJRR5          : nombre de jours avec RR ≥ 5.0 mm
+NBJRR10         : nombre de jours avec RR ≥ 10.0 mm
+NBJRR30         : nombre de jours avec RR ≥ 30.0 mm
+NBJRR50         : nombre de jours avec RR ≥ 50.0 mm
+NBJRR100        : nombre de jours avec RR ≥ 100.0 mm
+NBPMERM         : nombre de valeurs présentes de PMERM quotidienne
+NBTX            : nombre de valeurs présentes de TX quotidienne
+NBTN            : nombre de valeurs présentes de TN quotidienne
+NBTAMPLI        : nombre de valeurs présentes de TAMPLI quotidienne
+NBTM            : nombre de valeurs présentes du couple (TN, TX) quotidien
+NBTMM           : nombre de valeurs présentes de TM quotidienne
+NBUN            : nombre de valeurs présentes de UN quotidienne
+NBUX            : nombre de valeurs présentes de UX quotidienne
+NBUM            : nombre de valeurs présentes de UM quotidienne
+NBTSVM          : nombre de valeurs présentes de TSV quotidienne
+NBFXI           : nombre de valeurs présentes de FXI quotidienne
+NBFXY           : nombre de valeurs présentes de FXY quotidienne
+NBFFM           : nombre de valeurs présentes de FFM quotidienne
+NBINST          : nombre de valeurs présentes de INST quotidienne
+NBGLOT          : nombre de valeurs présentes de GLOT quotidien
+NBDIFT          : nombre de valeurs présentes de DIFT quotidien
+NBDIRT          : nombre de valeurs présentes de DIRT quotidien
+NBHNEIGEF       : nombre de valeurs présentes de HNEIGEF quotidienne
